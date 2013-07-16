@@ -1,4 +1,1 @@
-Guyra
-===================
-
-Proyecto final del Curso de Ruby on Rails
+# Aplicacion de ruby on rails del curso de la uni
