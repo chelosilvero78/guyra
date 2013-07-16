@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Guyra::Application.config.secret_token = 'cd2eeb36c392aab91a132a39296b41c7022edd01ff9d0012447df32fb0653d279af4dd943ed0e439def27890fc50b438420628ead82b84b29e06218ab42825a5'
+SampleApp::Application.config.secret_token = '54de1cecf99df62220fe19144d16d526fa18d9ff512960b656d93d00230c850fe276e71db7133048e33776a12d544532f46b893b30abb4defe43761fde0ca503'
